@@ -2,7 +2,7 @@
   <a href="#index-of-projects-by-categories"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/header.png?raw=true" width="100%" alt="Open Source Contribution - Sharad Shinde"/></a>
 </p>
 
-:octocat: This repository is a collection of my programming projects from UNI, ranging from small utilities to larger applications. Each language has project with its own documentation and usage instructions.
+This repository is a collection of my programming projects from UNI, ranging from small utilities to larger applications. Each language has project with its own documentation and usage instructions.
 
 ## Index Of Projects By Categories -
 
@@ -16,7 +16,7 @@
 
 
 
-### :octocat: `Projects in Python`
+### `Projects in Python`
 
 :one: Sortnet - <a href="https://github.com/shindesharad71/Monster-Game-Vuejs-Starter" target="_blank">Code</a>
 
