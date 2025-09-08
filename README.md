@@ -15,7 +15,7 @@ This repository is a collection of my programming projects from UNI, ranging fro
 ## <a id="1-Python" href="#1-Python"><img src="https://github.com/simo800t/nomisCV.github.io/blob/main/assets/pythonLogo.png?raw=true" width="40" hieght="40" alt="Python logo"/></a> 1. Python
 ### `Projects in Python`
 
-:one: Sortnet - <a href="https://github.com/simo899t/sortnet.git" target="_blank">Code</a>
+:one: Sorting networks for 1st semester exam - <a href="https://github.com/simo899t/sortnet.git" target="_blank">Code</a>
 
 <br>
 
