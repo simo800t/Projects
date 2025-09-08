@@ -31,7 +31,6 @@ Also here is my <a href="https://simo899t.github.io" target="_blank">resumé</a>
 <br>
 
 ## <a id="3-haskell" href="#3-Java"><img src="https://github.com/simo800t/nomisCV.github.io/blob/main/assets/haskellLogo.svg.png?raw=true" width="40" hieght="40" alt="Haskell logo"/></a> 3. Haskell
-Haskell, is a functional programming language, it emphasizes pure functions, strong typing, and abstraction, fostering mathematical clarity in algorithmic thinking. I used this in Uni 3rd semester 😃:.
 ### `Projects in Haskell`
 
 :one: not made yet - <a href="???" target="_blank">Code</a>
