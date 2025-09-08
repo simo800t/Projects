@@ -15,14 +15,14 @@ This repository is a collection of my programming projects from UNI, ranging fro
 ## <a id="1-Python" href="#1-Python"><img src="https://github.com/simo800t/nomisCV.github.io/blob/main/assets/pythonLogo.png?raw=true" width="40" hieght="40" alt="Python logo"/></a> 1. Python
 ### `Projects in Python`
 
-:one: Sortnet - <a href="https://github.com/shindesharad71/Monster-Game-Vuejs-Starter" target="_blank">Code</a>
+:one: Sortnet - <a href="https://github.com/simo899t/sortnet.git" target="_blank">Code</a>
 
 <br>
 
 ## <a id="2-Java" href="#2-Java"><img src="https://github.com/simo800t/nomisCV.github.io/blob/main/assets/javaLogo.png?raw=true" width="40" hieght="40" alt="Java logo"/></a> 2. Java
 ### `Projects in Java`
 
-:one: Pacman project for 2nd semseter exam - <a href="pacman" target="_blank">Code</a> | <a href="pacman Demo" target="_blank">Live Demo</a>
+:one: Pacman project for 2nd semseter exam - <a href="https://github.com/simo899t/sortnet.git" target="_blank">Code</a>
 
 <br>
 
