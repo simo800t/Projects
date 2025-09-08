@@ -2,7 +2,9 @@
   <a href="#index-of-projects-by-categories"><img src="https://github.com/simo800t/nomisCV.github.io/blob/main/assets/projectsBySimonH.png?raw=true" width="100%" alt="Projects by Simon H."/></a>
 </p>
 
-This repository is a collection of my programming projects from UNI, ranging from small utilities to larger applications. Each language has project with its own documentation and usage instructions.
+This site is a collection of my programming projects from UNI, ranging from small utilities to larger applications. Also here is my <a href="https://github.com/simo899t/sortnet.git" target="_blank">resumé</a>
+
+
 
 ## Index Of Projects By Categories -
 
