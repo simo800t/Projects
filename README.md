@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#index-of-projects-by-categories"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/header.png?raw=true" width="100%" alt="Open Source Contribution - Sharad Shinde"/></a>
+  <a href="#index-of-projects-by-categories"><img src="https://github.com/simo800t/nomisCV.github.io/blob/main/assets/projectsBySimonH.png?raw=true" width="100%" alt="Projects by Simon H."/></a>
 </p>
 
 This repository is a collection of my programming projects from UNI, ranging from small utilities to larger applications. Each language has project with its own documentation and usage instructions.
@@ -12,21 +12,21 @@ This repository is a collection of my programming projects from UNI, ranging fro
 
 # Let's Start!
 
-## <a id="1-Python" href="#1-Python"><img src="https://github.com/simo800t/nomisCV.github.io/blob/main/assets/pythonLogo.png?raw=true" width="40" hieght="40" alt="Vue logo"/></a> 1. Vue
+## <a id="1-Python" href="#1-Python"><img src="https://github.com/simo800t/nomisCV.github.io/blob/main/assets/pythonLogo.png?raw=true" width="40" hieght="40" alt="Python logo"/></a> 1. Python
 ### `Projects in Python`
 
 :one: Sortnet - <a href="https://github.com/shindesharad71/Monster-Game-Vuejs-Starter" target="_blank">Code</a>
 
 <br>
 
-## <a id="2-Java" href="#2-Java"><img src="https://github.com/simo800t/nomisCV.github.io/blob/main/assets/javaLogo.png?raw=true" width="40" hieght="40" alt="React logo"/></a> 2. React
+## <a id="2-Java" href="#2-Java"><img src="https://github.com/simo800t/nomisCV.github.io/blob/main/assets/javaLogo.png?raw=true" width="40" hieght="40" alt="Java logo"/></a> 2. Java
 ### `Projects in Java`
 
 :one: Pacman project for 2nd semseter exam - <a href="pacman" target="_blank">Code</a> | <a href="pacman Demo" target="_blank">Live Demo</a>
 
 <br>
 
-## <a id="3-haskell" href="#3-Java"><img src="https://github.com/simo800t/nomisCV.github.io/blob/main/assets/haskellLogo.svg.png?raw=true" width="40" hieght="40" alt="Angular logo"/></a> 3. Angular
+## <a id="3-haskell" href="#3-Java"><img src="https://github.com/simo800t/nomisCV.github.io/blob/main/assets/haskellLogo.svg.png?raw=true" width="40" hieght="40" alt="Haskell logo"/></a> 3. Haskell
 Haskell, is a functional programming language, it emphasizes pure functions, strong typing, and abstraction, fostering mathematical clarity in algorithmic thinking. I used this in Uni 3rd semester 😃:.
 ### `Projects in Haskell`
 
