@@ -12,7 +12,7 @@ This repository is a collection of my programming projects from UNI, ranging fro
 
 # Let's Start!
 
-## <a id="1-vue" href="#1-vue"><img src="https://github.com/shindesharad71/Project-Guide/blob/master/assets/vue.png?raw=true" width="40" hieght="40" alt="Vue logo"/></a> 1. Vue
+## <a id="1-vue" href="#1-vue"><img src="https://github.com/simo800t/nomisCV.github.io/blob/main/assets/haskellLogo.svg.png?raw=true" width="40" hieght="40" alt="Vue logo"/></a> 1. Vue
 
 
 
