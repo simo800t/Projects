@@ -4,7 +4,7 @@
 
 This site is a collection of my programming projects from UNI, ranging from small utilities to larger applications. 
 
-Also here is my <a href="https://github.com/simo899t/sortnet.git" target="_blank">resumé</a>
+Also here is my <a href="https://github.com/simo899t/simo899t.github.com" target="_blank">resumé</a>
 
 
 
