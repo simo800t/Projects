@@ -19,7 +19,7 @@ Also here is my <a href="https://simo899t.github.io" target="_blank">resumé</a>
 ## <a id="1-Python" href="#1-Python"><img src="https://github.com/simo800t/nomisCV.github.io/blob/main/assets/pythonLogo.png?raw=true" width="40" hieght="40" alt="Python logo"/></a> 1. Python
 ### `Projects in Python`
 
-:one: Sorting networks for 1st semester exam - <a href="https://github.com/simo899t/sortnet.git" target="_blank">Code</a>
+:one: Generating optimal sorting networks for 1st semester exam - <a href="https://github.com/simo899t/sortnet.git" target="_blank">Code</a>
 
 <br>
 
