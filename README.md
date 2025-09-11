@@ -26,7 +26,7 @@ Also here is my <a href="https://simo899t.github.io" target="_blank">resumé</a>
 ## <a id="2-Java" href="#2-Java"><img src="https://github.com/simo800t/nomisCV.github.io/blob/main/assets/javaLogo.png?raw=true" width="40" hieght="40" alt="Java logo"/></a> 2. Java
 ### `Projects in Java`
 
-:one: Pacman project for 2nd semseter exam - <a href="https://github.com/simo899t/sortnet.git" target="_blank">Code</a>
+:one: Pacman project for 2nd semseter exam - <a href="https://github.com/simo899t/pacman.git" target="_blank">Code</a>
 
 <br>
 
